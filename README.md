@@ -9,7 +9,7 @@ Basic sentiment analysis of text documents follows a straightforward process:
 
 * Break each text document down into its component parts (sentences, phrases, tokens and parts of speech)
 * Identify each sentiment-bearing phrase and component
-* Assign a sentiment score to each phrase and component (-1 to +1)
+* Assign a sentiment score to each phrase and component (0 t0 4)
 * Optional: Combine scores for multi-layered sentiment analysis
 
 ## Sentiment-Analysis-On-Movie-Reviews
